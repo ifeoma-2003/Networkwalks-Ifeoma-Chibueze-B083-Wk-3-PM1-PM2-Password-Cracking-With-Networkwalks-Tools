@@ -72,7 +72,7 @@ interface is available.
 
 ![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-3-PM1-PM2-Password-Cracking-With-Networkwalks-Tools/blob/main/JOHNNY%204%2CLOCKED%20PDF%202(2).png)
 
-![](
+![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-3-PM1-PM2-Password-Cracking-With-Networkwalks-Tools/blob/main/JOHNNY%208%2CLOCKED%20PDF%203(3).png)
 
 ![](
 
