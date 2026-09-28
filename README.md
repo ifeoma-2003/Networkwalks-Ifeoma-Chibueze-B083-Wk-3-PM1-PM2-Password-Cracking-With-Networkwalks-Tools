@@ -82,6 +82,8 @@ interface is available.
 
 ![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-3-PM1-PM2-Password-Cracking-With-Networkwalks-Tools/blob/main/HASH%20CALCULATOR%203%2CLOCKED%20PDF%201(3).png)
 
+![](https://github.com/ifeoma-2003/Networkwalks-Ifeoma-Chibueze-B083-Wk-3-PM1-PM2-Password-Cracking-With-Networkwalks-Tools/blob/main/HASH%20CALCULATOR%206%2CLOCKED%20PDF%203(2).png)
+
 ## Ethical Consideration
 
 All activities documented in this repository were conducted for educational and authorized cybersecurity training purposes
@@ -93,11 +95,13 @@ explicit authorization has been provided.
 ```
 Hash Calculator.: (https://networkwalks.com/hash-calculator/)
 Hash Password Cracker: (https://networkwalks.com/password-cracker/)
-John the Ripper.
-Johnny GUI.
+John the Ripper.: (https://www.openwall.com/john/)
+Johnny GUI.: (https://www.openwall.info/wiki/john/johnny/)
 ```
 
 ## Author 
 
 Ifeoma Chibueze | Networkwalks Cybersecurity Intern | B083 | Week 3
+
+Linkedin: https://www.linkedin.com/in/ifeoma-chibueze-9774a4406
 
